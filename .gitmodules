@@ -1,0 +1,6 @@
+[submodule "Amboss"]
+	path = Amboss
+	url = git@github.com:Ambrosys/Amboss.git
+[submodule "zeromq"]
+	path = zeromq
+	url = git@github.com:Ambrosys/zeromq.git
